@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+.env
+.env.local
+.env.production
+shots
+shots-*
+
+# Archivos de reglas para agentes que regenera "next dev": no se publican
+AGENTS.md
